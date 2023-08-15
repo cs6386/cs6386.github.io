@@ -12,7 +12,7 @@ seo:
 
 ## Cornell Unviersity, Fall 2023
 
-<b>Instructor:</b> Sainyam Galhotra <br>
+<b>Instructor:</b> <a href="https://sainyamgalhotra.com">Sainyam Galhotra</a> <br>
 <b>Email:</b> sg@cs.cornell.edu<br>
 <b>Office:</b> Gates 445<br>
 
