@@ -20,7 +20,7 @@ seo:
 <b>Office Hour:</b> Wednesday 3:00 - 4:00pm ET, Gates 445<br>
 
 <b>Course Description:</b> 
-This course offers an exploration into the intricate processes of handling vast datasets, ensuring that you are equipped to design streamlined data science pipelines. From the initial stages of data acquisition to the critical phases of visualization, preparation, validation, and analysis, every facet is covered. As we journey through these modules, you'll also engage in extensive paper readings and reviews, enriching your understanding with the latest research and innovative approaches in the field. 
+In the current era, Big Data stands as the cornerstone of numerous industries. Possessing the capability to manage substantial volumes of data both efficiently and effectively is now an invaluable skill. This course provides a comprehensive overview of the intricate processes of handling vast datasets, ensuring that you are equipped to design streamlined data science pipelines. From the initial stages of data acquisition to the critical phases of visualization, preparation, validation, and analysis, every facet is covered. As we go through these modules, you'll also engage in extensive paper readings and reviews, enriching your understanding with the latest research and innovative approaches in the field. 
 
 
 
