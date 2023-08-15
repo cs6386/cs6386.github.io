@@ -12,14 +12,16 @@ seo:
 
 ## Cornell Unviersity, Fall 2023
 
-<b>Instructor:</b> Sainyam Galhotra
-<b>Email:</b> sg@cs.cornell.edu
-<b>Office:</b> Gates 445
+<b>Instructor:</b> Sainyam Galhotra <br>
+<b>Email:</b> sg@cs.cornell.edu<br>
+<b>Office:</b> Gates 445<br><br>
 
-<b>Time:</b> Tuesday and Thursday, 7:30pm-8:45pm ET 
-<b>Office Hour:</b> Wednesday 3:00 - 4:00pm, Gates 445
+<b>Time:</b> Tuesday and Thursday, 7:30pm-8:45pm ET <br>
+<b>Office Hour:</b> Wednesday 3:00 - 4:00pm ET, Gates 445<br>
 
-<b>Course Description:</b> This course delves into the principles of managing large-scale datasets with the goal of designing an efficient data science pipeline. It encompasses a diverse set of topics, such as data acquisition, visualization, preparation, validation, and analysis. The course includes extensive paper reading and reviews.
+<b>Course Description:</b> 
+This course offers an exploration into the intricate processes of handling vast datasets, ensuring that you are equipped to design streamlined data science pipelines. From the initial stages of data acquisition to the critical phases of visualization, preparation, validation, and analysis, every facet is covered. As we journey through these modules, you'll also engage in extensive paper readings and reviews, enriching your understanding with the latest research and innovative approaches in the field. 
+
 
 
 # - [announcements](announcements.md),
