@@ -1,11 +1,9 @@
 ---
-name: Kevin Lin
+name: Sainyam Galhotra
 role: Instructor
-email: me@example.com
-website: https://kevinl.info
-photo: kevin.jpg
+email: sg@cs.cornell.edu
+website: sainyamgalhotra.com
+photo: sainyam-pic.jpg
 meta:
-  Office Hours: Somewhere on the internet
+  Office Hours: Wed 3-4pm
 ---
-
-[Schedule an appointment](#){: .btn .btn-outline }
