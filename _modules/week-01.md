@@ -6,8 +6,8 @@ Tuesday Aug 22
 : Lecture #1: Overview
   : [Slides (will be uploaded by Aug 21)](#)
 : Topics:
- <li>Overview</li>
- <li>Course outline and syllabus</li>
- <li>Data Science Pipelines</li>
+: <li>Overview</li>
+: <li>Course outline and syllabus</li>
+: <li>Data Science Pipelines</li>
 
 
