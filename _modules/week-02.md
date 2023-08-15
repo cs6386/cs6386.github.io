@@ -4,9 +4,6 @@ title: Data Acquisition & visualization
 
 : 
   : 
-: Topics:
- <li>Data Discovery</li>
- <li>Data Marketplaces</li>
- <li>Data Visualization</li>
+: Topics: <br> &#x2022; Data Discovery <br> &#x2022; Data Marketplaces <br> &#x2022;  Data Visualization
 
 
