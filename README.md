@@ -44,9 +44,9 @@ If you are an undergraduate, you should have taken CS 4780 or an equivalent cour
  <br> &#x2022;Paper reviews should be about one page in length. The review should follow the template of a conference paper review. 
  <br>
 <b> Assignments: 20%</b>
-<br> &#x2022;Three assignments with four slip days<br>
+<br> &#x2022;Three assignments with four slip days.<br>
 <b>Active participation in class discussions: 10%</b>
 <br> &#x2022; One point per lecture for asking at least one relevant question.<br>
 <b> Project: 40%</b>
-<br> &#x2022; Teams of upto two students per project
+<br> &#x2022; Teams of upto two students per project.
 <br> &#x2022; Projects are chosen within the first three weeks of the semester.
