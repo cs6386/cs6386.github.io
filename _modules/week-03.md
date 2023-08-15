@@ -1,3 +1,3 @@
 ---
-title: Data Integration, Extraction and Cleaning
+title: Data Preparation: Extraction, Integration, Cleaning
 ---
