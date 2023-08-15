@@ -1,11 +1,11 @@
 ---
 layout: page
-title: Schedule (will be updated over the course of the semester.)
+title: Schedule 
 description: Listing of course modules and topics.
 nav_order: 1
 ---
 
-# Schedule
+# Schedule (will be updated over the course of the semester.)
 
 {% for module in site.modules %}
 {{ module }}
