@@ -10,7 +10,13 @@ seo:
 
 # Data to Decisions: Principles of Efficient Data Science
 
-This course delves into the principles of managing large-scale datasets with the goal of designing an efficient data science pipeline. It encompasses a diverse set of topics, such as data acquisition, visualization, preparation, validation, and analysis. The course includes extensive paper reading and reviews.
+Cornell Unviersity, Fall 2023
+
+Instructor: Sainyam Galhotra
+
+Time: Tuesday and Thursday, 7:30pm-8:45pm ET
+
+<b>Course Description:</b> This course delves into the principles of managing large-scale datasets with the goal of designing an efficient data science pipeline. It encompasses a diverse set of topics, such as data acquisition, visualization, preparation, validation, and analysis. The course includes extensive paper reading and reviews.
 
 
 # - [announcements](announcements.md),
