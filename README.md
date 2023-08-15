@@ -1,11 +1,11 @@
 ---
 layout: home
-title: Just the Class
+title: Data to Decisions
 nav_exclude: true
 permalink: /:path/
 seo:
   type: Course
-  name: Just the Class
+  name: Data to Decisions
 ---
 
 # Data to Decisions: Principles of Efficient Data Science
@@ -24,5 +24,3 @@ This course delves into the principles of managing large-scale datasets with the
 # - instant, full-text [search](https://just-the-docs.github.io/just-the-docs/docs/search/) and page indexing,
 #  - and a set of [UI components](https://just-the-docs.github.io/just-the-docs/docs/ui-components) and authoring [utilities](https://just-the-docs.github.io/just-the-docs/docs/utilities).
 
-## Getting Started
-equires no special Jekyll plugins and can run on GitHub Pages' standard Jekyll compiler. To setup a local development environment, clone your template repository and follow the GitHub Docs on [Testing your GitHub Pages site locally with Jekyll](https://docs.github.com/en/pages/setting-up-a-github-pages-site-with-jekyll/testing-your-github-pages-site-locally-with-jekyll).
