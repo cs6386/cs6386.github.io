@@ -8,9 +8,9 @@ seo:
   name: Data to Decisions
 ---
 
-## Data to Decisions: Principles of Efficient Data Science
+# Data to Decisions: Principles of Efficient Data Science
 
-# Cornell Unviersity, Fall 2023
+## Cornell Unviersity, Fall 2023
 
 <b>Instructor:</b> Sainyam Galhotra
 <b>Email:</b> sg@cs.cornell.edu
