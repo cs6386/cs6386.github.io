@@ -2,7 +2,7 @@
 layout: page
 title: Project
 description: Project ideas
-nav_order: 1
+nav_order: 2
 ---
 
 # Project
