@@ -1,8 +1,8 @@
 ---
-title: Overview of Data Science Pipelines
+title: Introduction and Class Overview
 ---
 
 Tuesday Aug 22
 : Lecture #1: Overview
-  : [1.1](#)
+  : [Slides](#)
 
