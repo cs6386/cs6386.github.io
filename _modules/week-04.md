@@ -1,3 +1,3 @@
 ---
-title: Ethical and social Considerations
+title: Ethical and Social Considerations 
 ---
