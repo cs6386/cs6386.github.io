@@ -1,26 +1,14 @@
 ---
 layout: page
-title: Staff
-description: A listing of all the course staff members.
+title: Project
+description: Project ideas
 ---
 
-# Staff
+# Project
 
-Staff information is stored in the `_staffers` directory and rendered according to the layout file, `_layouts/staffer.html`.
-
-## Instructors
-
-{% assign instructors = site.staffers | where: 'role', 'Instructor' %}
-{% for staffer in instructors %}
-{{ staffer }}
-{% endfor %}
-
-{% assign teaching_assistants = site.staffers | where: 'role', 'Teaching Assistant' %}
-{% assign num_teaching_assistants = teaching_assistants | size %}
-{% if num_teaching_assistants != 0 %}
-## Teaching Assistants
-
-{% for staffer in teaching_assistants %}
-{{ staffer }}
-{% endfor %}
-{% endif %}
+The subject of the project is open-ended where students need to do at least the following:
+1. implement the end to end data science pipeline for some task
+2. explore the different techniques for concepts learned in the class and qualitatively evaluate their need for this task
+3. develop a customized solution for the application
+4. empirically evaluate the performance (quality, efficiency, robustness) of the developed system and compare with baseline techniques
+5. [Optional] Build a demo or easy to use library
