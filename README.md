@@ -41,7 +41,6 @@ If you are an undergraduate, you should have taken CS 4780 or an equivalent cour
  <br> &#x2022; Grading considers quality of slides and verbal explanations, as well as audience engagement.
  <br>
 <b> Quality of paper reviews: 20%</b>
- <br> &#x2022;Two paper reviews
  <br> &#x2022;Paper reviews should be about one page in length. The review should follow the template of a conference paper review. 
  <br>
 <b> Assignments: 20%</b>
