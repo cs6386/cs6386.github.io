@@ -17,13 +17,13 @@ seo:
 <b>Office:</b> Gates 445<br>
 
 <b>Time:</b> Tuesday and Thursday, 7:30pm-8:45pm ET <br>
-<b>Office Hour:</b> Wednesday 3:00 - 4:00pm ET, Gates 445<br>
+<b>Office Hour:</b> Every Week Wednesday 3:00 - 4:00pm ET, Gates 445<br>
 
 ## Course Description:
-In the current era, Big Data stands as the cornerstone of numerous industries. Managing massive amounts of data both efficiently and effectively is now an invaluable skill. This course provides a comprehensive overview of the intricate processes of handling vast datasets, ensuring that you are equipped to design streamlined data science pipelines. From the initial stages of data acquisition to the critical phases of visualization, preparation, validation, and analysis, every facet is covered. As we go through these modules, you'll also engage in extensive paper readings and reviews, enriching your understanding with the latest research and innovative approaches in the field. Students will apply the learned techniques as a part of an open-ended project.
+This course delves into the principles of managing large-scale datasets with the goal of designing an efficient data science pipeline. It encompasses a diverse set of topics, such as data acquisition, visualization, preparation, validation, and analysis. As we go through these modules, you'll also engage in extensive paper readings and reviews, enriching your understanding with the latest research and innovative approaches in the field. Students will apply the learned techniques as a part of an open-ended project.
 
 By the end of the course, students will be able to:
-<br> &#x2022; Implement the principles of data management in the context of machine learning.
+<br> &#x2022; Implement the principles of data management to a real-world problem.
 <br> &#x2022; Design complex data processing pipelines by combining data from different
 sources and visualizing it.
 <br> &#x2022; Evaluate the impact of noise on the quality of data analysis and design methods
@@ -44,8 +44,8 @@ Quality of paper reviews: 20%<br>
  <br> &#x2022;Two paper reviews
  <br> &#x2022;Paper reviews should be about one page in length. The review should follow the template of a conference paper review. 
  <br><br>
-Programming Assignments: 20%<br>
-<br> &#x2022;Three programming assignments with four slip days
+Assignments: 20%<br>
+<br> &#x2022;Three assignments with four slip days
 Active participation in class discussions: 10%<br>
 <br> &#x2022; One point per lecture for asking at least one relevant question.<br><br>
 Project: 40%
