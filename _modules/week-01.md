@@ -7,7 +7,7 @@ Tuesday Aug 22
   : [Slides (will be uploaded by Aug 21)](#)
 : Topics:
 : <li>Overview</li>
-: <li>Course outline and syllabus</li>
-: <li>Data Science Pipelines</li>
+ <li>Course outline and syllabus</li>
+ <li>Data Science Pipelines</li>
 
 
