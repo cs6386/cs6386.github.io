@@ -25,9 +25,9 @@ In the current era, Big Data stands as the cornerstone of numerous industries. P
 
 <b>Prerequisites:</b> If you are an undergraduate, you should have taken CS 4780 or an equivalent course, since it is a prerequisite. For all others, knowledge of machine learning at the level of CS 4780 is needed. 
 
-<b>Grading:</b> 
-Paper Presentation: 10%
-Quality of paper reviews: 20%
-Programming Assignments: 20%
-Active participation in class discussions: 10%
+<b>Grading:</b> <br>
+Paper Presentation: 10%<br>
+Quality of paper reviews: 20%<br>
+Programming Assignments: 20%<br>
+Active participation in class discussions: 10%<br>
 Project: 40%
