@@ -30,10 +30,12 @@ Paper Presentation: 10%
  <br> &#x2022; One or two presentations individually or in teams of two.
  <br> &#x2022; Grading considers quality of slides and verbal explanations, as well as audience engagement.
 Quality of paper reviews: 20%<br>
-<ul>
-<li>Two paper reviews</li>
-<li>Paper reviews should be about one page in length. The review should follow the template of a conference paper review. </li>
-  </ul>
+ <br> &#x2022;Two paper reviews
+ <br> &#x2022;Paper reviews should be about one page in length. The review should follow the template of a conference paper review. </li>
 Programming Assignments: 20%<br>
+<br> &#x2022;Three programming assingments with four slip days
 Active participation in class discussions: 10%<br>
+<br> &#x2022; One point per lecture for asking at least one relevant question.
 Project: 40%
+<br> &#x2022; Teams of upto two students per project
+<br> &#x2022; Projects are chosen within the first three weeks of the semester.
