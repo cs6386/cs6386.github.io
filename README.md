@@ -28,7 +28,7 @@ In the current era, Big Data stands as the cornerstone of numerous industries. P
 <b>Course Workload and Grading:</b> <br>
 ## Paper Presentation: 10%
 <ul>
-<li>One or two presentations alone or in teams of two.</li>
+<li>One or two presentations individually or in teams of two.</li>
 <li>Grading considers quality of slides and verbal explanations, as well as audience engagement.</li>
 </ul>
 Quality of paper reviews: 20%<br>
