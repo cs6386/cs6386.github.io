@@ -32,7 +32,10 @@ Paper Presentation: 10%
 <li>Grading considers quality of slides and verbal explanations, as well as audience engagement.</li>
 </ul>
 Quality of paper reviews: 20%<br>
+<ul>
 <li>Two paper reviews</li>
+<li>Paper reviews should be about one page in length. The review should follow the template of a conference paper review. </li>
+  </ul>
 Programming Assignments: 20%<br>
 Active participation in class discussions: 10%<br>
 Project: 40%
