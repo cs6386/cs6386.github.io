@@ -1,7 +1,7 @@
 ---
 layout: page
-title: Programming Assignments
-description: Programming Assignments
+title: Assignments
+description: Assignments
 nav_order: 2
 ---
 
