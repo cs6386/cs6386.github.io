@@ -45,7 +45,7 @@ Quality of paper reviews: 20%<br>
  <br> &#x2022;Paper reviews should be about one page in length. The review should follow the template of a conference paper review. 
  <br><br>
 Programming Assignments: 20%<br>
-<br> &#x2022;Three programming assingments with four slip days
+<br> &#x2022;Three programming assignments with four slip days
 Active participation in class discussions: 10%<br>
 <br> &#x2022; One point per lecture for asking at least one relevant question.<br><br>
 Project: 40%
