@@ -1,8 +1,8 @@
 ---
-title: Introduction and Class Overview
+title: Data Acquisition
 ---
 
-Tuesday Aug 22
-: Lecture #1: Overview
-  : [Slides (will be uploaded by Aug 21)](#)
-: Topics: <br> &#x2022; Overview <br> &#x2022; Course outline and syllabus <br> &#x2022; Data Science Pipelines
+Thursday Aug 24
+: Lecture #2: How to show datasets to the user
+  : [Slides](https://docs.google.com/presentation/d/1JH3N0jZXq6lvtFTFNbJhh1xwwUQlQ7Tc/edit?usp=sharing&ouid=107445138954532774881&rtpof=true&sd=true)
+: Topics: <br> &#x2022; Data Discovery <br> &#x2022; Max-cover problem <br> &#x2022; Data search interface
