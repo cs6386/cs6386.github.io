@@ -1,5 +1,5 @@
 ---
-title: Data Acquisition
+title: 
 ---
 
 Thursday Aug 24
