@@ -1,5 +1,5 @@
 ---
-title: Data Acquisition & visualization
+title: Week 2.2
 ---
 Thursday Aug 31
 : Lecture #3: Join Keys and overlap estimation
