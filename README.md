@@ -17,7 +17,7 @@ seo:
 <b>Office:</b> Gates 445<br>
 
 <b>Time:</b> Tuesday and Thursday, 7:30pm-8:45pm ET <br>
-<b>Office Hour:</b> Every Week Wednesday 3:00 - 4:00pm ET, Gates 445<br>
+<b>Office Hour:</b> Every Week Monday 2:00 - 3:00pm ET, Gates 445<br>
 
 ## Course Description:
 This course delves into the principles of managing large-scale datasets with the goal of designing an efficient data science pipeline. It encompasses a diverse set of topics, such as data acquisition, visualization, preparation, validation, and analysis. As we go through these modules, you'll also engage in extensive paper readings and reviews, enriching your understanding with the latest research and innovative approaches in the field. Students will apply the learned techniques as a part of an open-ended project.
