@@ -1,10 +1,10 @@
 ---
-title: Week 2.2
+title: Week 5.1
 ---
 
-Thursday Aug 31
-: Lecture #4: Join Keys and overlap estimation
-  : [Slides](https://docs.google.com/presentation/d/1lgY6Wk4C9Xb7o0sdbFXntI3CwEX_WJTA/edit?usp=sharing&ouid=107445138954532774881&rtpof=true&sd=true)
-:Topics: <br> &#x2022; Key estimation <br> &#x2022; Distinct value estimation <br> &#x2022;  Minhash and Jaccard similarity
+Tuesday Sept 19
+: Lecture #9: Data Labelling and Information Extraction
+  : [Slides](https://docs.google.com/presentation/d/1OwtMEmWWPEeXhy0JLRNNO1v8uN4XBLdN/edit?usp=sharing&ouid=107445138954532774881&rtpof=true&sd=true)
+:Topics: <br> &#x2022; Weak Supervision <br> &#x2022; Snorkel, Snuba, Babble Labble, Darwin <br> &#x2022;  Information Extraction
 
 
