@@ -6,7 +6,6 @@ nav_order: 2
 ---
 
 # Assignment 1
-Will be added later
-
+Released on canvas. Due Oct 6
 # Assignment 2
 Will be added later

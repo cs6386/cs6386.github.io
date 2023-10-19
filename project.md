@@ -5,7 +5,7 @@ description: Project ideas
 nav_order: 2
 ---
 
-# Project (Subject to Change)
+# Project 
 The final project can be done in groups of up to two. Students should implement an end-to-end pipeline for a task, use real datasets and process them with different techniques for concepts learned in the class. The students should develop custom solutions for their task, evaluate performance (quality, efficiency, robustness, and scalability) against baselines and document their findings.
 
 
