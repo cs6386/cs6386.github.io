@@ -10,7 +10,7 @@ seo:
 
 # Data to Decisions: Principles of Efficient Data Science
 
-## Cornell Unviersity, Spring 2025
+## Cornell University, Spring 2025
 
 <b>Instructor:</b> <a href="https://sainyamgalhotra.com">Sainyam Galhotra</a> <br>
 <b>Email:</b> sg@cs.cornell.edu<br>
@@ -36,16 +36,16 @@ community and prepare presentations covering these topics.
 If you are an undergraduate, you should have taken CS 4780 or an equivalent course, since it is a prerequisite. For all others, knowledge of machine learning at the level of CS 4780 is needed. 
 
 ## Course Workload and Grading:
-<b> Paper Presentation: 10%</b>
- <br> &#x2022; One or two presentations individually or in teams of two.
+<b> Paper Presentation: 20%</b>
+ <br> &#x2022; One presentation individually or two presentations in teams of two.
  <br> &#x2022; Grading considers quality of slides and verbal explanations, as well as audience engagement.
  <br>
-<b> Quality of paper reviews: 20%</b>
+<b> Quality of paper reviews: 15%</b>
  <br> &#x2022;Paper reviews should be about one page in length. The review should follow the template of a conference paper review. 
  <br>
-<b> Assignments: 20%</b>
-<br> &#x2022;Three assignments with four slip days.<br>
-<b>Active participation in class discussions: 10%</b>
+<b> Assignments: 10%</b>
+<br> &#x2022;Two assignments with four slip days.<br>
+<b>Active participation in class discussions: 15%</b>
 <br> &#x2022; One point per lecture for asking at least one relevant question.<br>
 <b> Project: 40%</b>
 <br> &#x2022; Teams of upto two students per project.
