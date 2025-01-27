@@ -1,5 +1,5 @@
 ---
-title: 
+title:  Lecture 2
 ---
 
 Monday Jan 27
